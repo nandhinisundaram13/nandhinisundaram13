@@ -4,53 +4,31 @@
   <img height="20" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif"  />
 </div>
 
-###
+<h2 style="text-align:center; font-size:28px; font-weight:bold; color:#333;">About me</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nandhini-s-413a1b321" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="126013061@sastra.ac.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<br>Hi 👋, I'm Nandhini.S<br><br>A passionate Web Developer and Aspiring Software Developer<br><br> I’m looking to collaborate on Simple Web Development Projects:http://github.com/nandhinisundaram13<br><br>my linkedin profile: linkedin.com/in/nandhini-s-413a1b321<br><br> I’m currently learning : Full Stack Development |React.js | Django<br><br>Ask me about : HTML | CSS | JavaScript | Java | C++ | Python | MySQL<br><br>📫 How to reach me : 126013061@sastra.ac.in|nandhinisundaram13@gmail.com|linkedin.com/in/nandhini-s-413a1b321<br><br>👨‍💻 All of my projects are available at : http://github.com/nandhinisundaram13<br><br>⚡ Fun fact<br>I love solving coding problems and I believe learning never stops!<br>
 
-###
 
-<h1 align="center">hey there 👋</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandhini-s-413a1b321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:126013061@sastra.ac.in) 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-<h3 align="left">👩‍💻  About Me</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nandhinisundaram13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nandhinisundaram13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhinisundaram13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=nandhinisundaram13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">Hi 👋, I'm Nandhini.S<br>A passionate Web Developer and Aspiring Software Developer<br>nandhinisundaram13<br><br>nandhinisundaram13<br><br>I’m currently working on Student Mark Display System<br><br>🌱 I’m currently learning Full Stack Development |React.js | Django<br><br>👯 I’m looking to collaborate on Simple Web Development Projects<br><br>🤝 I’m looking for help with linkedin.com/in/nandhini-s-413a1b321<br><br>👨‍💻 All of my projects are available at http://github.com/nandhinisundaram13<br><br>📝 I regularly write articles on [Still exploring platforms to share my learnings](Still exploring platforms to share my learnings)<br><br>💬 Ask me about HTML | CSS | JavaScript | Java | C++ | Python | MySQL<br><br>📫 How to reach me 126013061@sastra.ac.in|nandhinisundaram13@gmail.com|linkedin.com/in/nandhini-s-413a1b321<br><br>⚡ Fun fact I love solving coding problems and I believe learning never stops!<br><br>Connect with me:<br><br>Languages and Tools:<br>c cplusplus css3 django java javascript mongodb mysql php python react</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="5" alt="go logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="5" alt="rust logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="5" alt="ruby logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="5" alt="dot-net logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="5" alt="firebase logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="5" alt="amazonwebservices logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="5" alt="circleci logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="5" alt="kubernetes logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="5" alt="docker logo"  />
-</div>
-
-###
