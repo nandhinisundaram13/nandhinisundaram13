@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="20" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif"  />
+  <img height="360" src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif"  />
 </div>
 
 <h2 style="text-align:center; font-size:28px; font-weight:bold; color:#333;">About me</h2>
